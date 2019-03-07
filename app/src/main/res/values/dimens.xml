@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="width_30">30dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="width_40">40dp</dimen>
+    <dimen name="width_32">32dp</dimen>
+    <dimen name="margin_44">44dp</dimen>
+    <dimen name="margin_52">52dp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="height_24">24dp</dimen>
+    <dimen name="height_40">40dp</dimen>
+    <dimen name="img_size_136">136dp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="width_20">20dp</dimen>
+    <dimen name="width_60dp">60dp</dimen>
+    <dimen name="radius_4">4dp</dimen>
+    <dimen name="width_1">1dp</dimen>
+    <dimen name="width_60">60dp</dimen>
+    <dimen name="width_90">90dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="dimen_70dp">70dp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="width_74dp">74dp</dimen>
+    <dimen name="radius_5dp">5dp</dimen>
+</resources>

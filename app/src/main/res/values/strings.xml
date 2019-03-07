@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SoundCloud MP3</string>
+    <string name="my_music_string">My Music</string>
+    <string name="discover_string">Discover</string>
+    <string name="favorite_string">Favorite</string>
+    <string name="text_init_timer">00:00</string>
+    <string name="text_song_name">Song name</string>
+    <string name="text_artist">Artist</string>
+    <string name="text_search_hint">Your search key</string>
+    <string name="text_view_more">View more</string>
+    <string name="text_all_music">ALL MUSIC</string>
+    <string name="text_all_audio">ALL AUDIO</string>
+    <string name="text_alternative_rock">ALTERNATIVE ROCK</string>
+    <string name="text_ambient">AMBIENT</string>
+    <string name="text_classical">CLASSICAL</string>
+    <string name="text_contry">COUNTRY</string>
+    <string name="text_download">Download</string>
+    <string name="text_action_clear">Clear</string>
+    <string name="text_search_history">SEARCH HISTORY</string>
+    <string name="downloaded_songs">Downloaded Songs</string>
+    <string name="text_permission">YOU SHOULD ACCEPT PERMISSION FOR THIS FEATURE!</string>
+    <string name="text_playing">Playing </string>
+    <string name="text_song"> song</string>
+    <array name="array_genre_titles">
+        <item>@string/text_all_music</item>
+        <item>@string/text_all_audio</item>
+        <item>@string/text_alternative_rock</item>
+        <item>@string/text_ambient</item>
+        <item>@string/text_classical</item>
+        <item>@string/text_contry</item>
+    </array>
+</resources>
